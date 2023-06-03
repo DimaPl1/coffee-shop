@@ -1,0 +1,42 @@
+.header {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 640px;
+    width: 100%;
+}
+
+.content {
+    display: block;
+    text-align: center;
+    margin-top: 110px;
+}
+
+.content p {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.divider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 30px 0;
+    gap: 20px;
+}
+
+.line {
+    display: block;
+    height: 1px;
+    width: 60px;
+    background-color: white;
+}
+
+.descr {
+    margin-bottom: 18px;
+}
+
+.btn {
+    padding: 5px 42px 5px 42px;
+    border: 1px solid white;
+    border-radius: 5px;
+}

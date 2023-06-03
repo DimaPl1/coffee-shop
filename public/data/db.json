@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "title": "AROMISTICO Coffee 1 kg",
+            "country": "Brazil",
+            "price": "6.99$"
+        },
+        {
+            "id": 1,
+            "title": "AROMISTICO Coffee 2 kg",
+            "country": "Kenya",
+            "price": "8.99$"
+        },
+        {
+            "id": 2,
+            "title": "AROMISTICO Coffee 3 kg",
+            "country": "Columbia",
+            "price": "10.99$"
+        },
+        {
+            "id": 3,
+            "title": "AROMISTICO Coffee 3 kg",
+            "country": "Brazil",
+            "price": "12.99$"
+        },
+        {
+            "id": 4,
+            "title": "AROMISTICO Coffee 4 kg",
+            "country": "Kenya",
+            "price": "13.99$"
+        },
+        {
+            "id": 5,
+            "title": "AROMISTICO Coffee 1 kg",
+            "country": "Columbia",
+            "price": "6.99$"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+.about {
+    display: block;
+    width: 590px;
+    margin: 0 auto;
+    padding: 80px 0 100px 0;
+    text-align: center;
+    color: #000;
+}
+
+.about p + p {
+    margin-top: 20px;
+}

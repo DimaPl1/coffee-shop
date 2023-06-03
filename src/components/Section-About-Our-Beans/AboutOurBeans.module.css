@@ -1,0 +1,29 @@
+.aboutOurBeans {
+    margin-top: 70px;
+    color: black;
+}
+
+.aboutWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin: 0 auto 60px auto;
+}
+
+.content {
+    width: 346px;
+    text-align: center;
+}
+
+.content p + p {
+    margin-top: 20px;
+}
+
+.line {
+    display: block;
+    margin: 0 auto;
+    height: 1px;
+    width: 240px;
+    background-color: black;
+}

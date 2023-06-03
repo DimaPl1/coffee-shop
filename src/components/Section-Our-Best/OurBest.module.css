@@ -1,0 +1,27 @@
+.ourBest {
+    padding: 80px 110px;
+    background-image: url('/bg/bg-our-best.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;   
+    text-align: center;  
+    color: #000;
+}
+
+.cardWrapper {
+    display: flex; 
+    justify-content: center;
+    gap: 70px;
+    margin-top: 40px;
+}
+
+
+.cardWrapper img {
+    margin-bottom: 14px;
+}
+
+.cardWrapper span {
+    display: block;
+    margin-top: 10px;
+    font-weight: 700;
+    text-align: right;
+}

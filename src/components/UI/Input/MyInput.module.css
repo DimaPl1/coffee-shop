@@ -1,0 +1,26 @@
+.search_input {
+    width: 180px;
+    margin-left: 20px;
+    padding: 6px 6px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    border: 0;
+    border-radius: 4px;
+}
+
+
+.search_input:hover {
+    box-shadow: 4px 4px 30px rgba(13, 9, 9, 0.485);
+}
+
+.search_input::placeholder{
+    text-align: center;
+    font-size: 12px;
+}
+
+.search_input:focus {
+    outline: none;
+    box-shadow: 4px 4px 30px rgba(13, 9, 9, 0.485);
+}
+
+
+/* ! Делать следующую страничку */

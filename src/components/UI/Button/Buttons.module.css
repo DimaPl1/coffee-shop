@@ -1,0 +1,24 @@
+.btn {
+    padding: 6px 20px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    background-color: #fff;
+    border: 0;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    box-shadow: 4px 4px 40px rgba(13, 9, 9, 0.485);
+}
+
+.btn.active {
+    box-shadow: 4px 4px 40px rgba(13, 9, 9, 0.485);
+    font-weight: bold;
+}
+
+.btn_flex {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
